@@ -1,2 +1,3 @@
 # computer-graphic-processing-game
- flappy bird + pong made with processing for computer graphics course
+
+https://aryokm.github.io/computer-graphic-processing-game/
